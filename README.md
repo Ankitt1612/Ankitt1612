@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankitt
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Cypress, Selenium 4, Rest Assured and how to create a testing framework
 - 💞️ I’m looking to collaborate on software testing framework
 - 📫 How to reach me ... ankitt1216@gmail.com
 
